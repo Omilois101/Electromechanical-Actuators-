@@ -1,4 +1,4 @@
-# Electromechanical-Actuators-
+# Electromagnetic Characterisation of Actuators
 FEMM Analysis on Electromechanical Actuators 
 
 construct_actuator : File conating the Plot, Femm process and Analytical equations 
